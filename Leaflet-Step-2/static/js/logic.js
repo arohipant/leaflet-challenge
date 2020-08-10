@@ -98,10 +98,5 @@ d3.json(Url, function(data) {
 
         return div;
     };
-
-    
-    // Adding legend to the map
-    legend.addTo(myMap);
-
-    L.control.layers(baseMaps, overlayMaps).addTo(myMap);
+  
 });
