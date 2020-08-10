@@ -1,0 +1,1 @@
+ const API_KEY = "pk.eyJ1IjoiYXJvaGlwYW50IiwiYSI6ImNrYnNveGJodjAyNHYycnJxYm53YnR5NXkifQ.rJaotmeC21AUwDp2EBF6Og";
